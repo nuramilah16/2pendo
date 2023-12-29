@@ -1,9 +1,5 @@
-# FINAL PROJECT
-Churn Bank Customer
+I have Portfolio documentation and certifications that I have
 
-Role : Tim data scientist untuk mengolah data hingga membuat pemodelan machine learning untuk prediksi churn.
+https://nura16.github.io/portfolio/
 
-Goal : Memprediksi nasabah yang berpotensi akan churn dan mengambil keputusan untuk mengantisipasi nasabah yang churn dan meningkatkan pendapatan untuk bank.
-
-Objective : 
-Membuat model machine learning yang dapat memprediksi kemungkinan churn dari suatu nasabah dan membuat rekomendasi kepada customer service untuk memberikan penawaran yang menarik kepada nasabah terkait agar nasabah tetap bertransaksi pada bank dan tidak menjadi churn.
+![image](https://github.com/nuramilah16/Project/assets/66350851/c14bb78a-3556-41f0-99f0-35d300301059)
